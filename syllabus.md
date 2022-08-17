@@ -1,20 +1,26 @@
 ## COMM3130: Computational Text Analysis for Communication Research
 **Fall 2022: Tu/Th 12.00-1.30pm**  
-
+**Room: ----**
 
 **Professor**: Dr. Matt O'Donnell (he/him/his)
 **Email**: mbod@asc.upenn.edu
 
 
 **Office hours**: Virtual online meetings through Zoom
+* Days and Times __TBA__
+
+
+## IMPORTANT NOTICE - <u>Masks are required in this class</u>
+* Please make sure you are wearing a face mask fully covering both mouth and nose _before_ you enter the classroom and keep it in place _at all times_.
+* Make sure you have a "properly-fitting, high-quality mask (preferably a surgical mask, KN95/KF94, N95, or [EHRS-recommended Aries mask](https://ehrs.upenn.edu/covid-19/universal-mask-and-cloth-face-covering-precautions) as opposed to a single layer cloth mask)." (UPenn Public Health Guidance).
 
 
 ## Course Description, Goals and Objectives
 
-In this hands-on course students will learn how to manage large textual datasets (e.g. Twitter, YouTube, news stories) to investigate research questions. They will work through a series of steps to collect,
-organize, analyze and present textual data by using automated tools toward a final project of relevant interest.  The course will cover linguistic theory and techniques that can be applied to textual data (particularly from the fields of corpus linguistics and natural language processing).
+In this hands-on course students will learn how to manage large textual datasets (e.g. Twitter, news stories, song lyrics, YouTube comments) to investigate research questions. They will work through a series of steps to _collect_,
+_organize_, _analyze_ and _present_ textual data by using basic Python coding toward a final project of relevant interest.  The course will cover linguistic theory and techniques that can be applied to textual data (particularly from the fields of corpus linguistics and natural language processing).
 
-_No prior programming experience is required._ Through this course students will gain skills writing Python programs to handle large amounts of textual data and become familiar with one of the key techniques used by data scientists, which is currently one of the most in-demand jobs.
+**_No prior programming experience is required._** Through this course students will gain skills writing Python programs to handle large amounts of textual data and become familiar with one of the key techniques used by data scientists, which is currently one of the most in-demand jobs.
 
 * This course will provide an introduction to Python programming for collecting, preparing and analyzing text data from various sources including
 social media (e.g. Twitter), weblogs, online news media and various publicly available archives (e.g. presidential speech archive, congressional sessions).
@@ -27,6 +33,7 @@ in which students will work through programming exercises using Jupyter notebook
 	* understand the field of corpus linguistics and how its concepts and tools can be applied to text analysis questions of relevance to Communication
 	* be exposed to a range of techniques from natural language processing and understand how they can be used to improve content analyses
 	* gain a basic level of programming proficiency in the Python programming language and have completed a number of programming exercises to build, clean and analysis corpora of text
+	* complete a data science project focused the analysis of text data and gain group work and collaborative skills
 
 ## Textbooks and resources
 
@@ -48,42 +55,18 @@ in which students will work through programming exercises using Jupyter notebook
 			* _Write about your earliest memory._
 			* _Create a recipe for a fried or boiled egg for your room mate who doesn't know how to cook._
 2. **Attend weekly lab sessions and complete the assigned exercises (40%)**
-    * Thursday class sessions will _usually_ be programming labs. Students are required to bring a laptop that can connect to the ASC network. Please contact the me if this is difficult and we can see if a machine can be made available for use in lab.
-	* We will be using Jupyter notebooks to learn Python, which are a web-based interactive programming environment. Assignments will be completed in this and submitted to the instructor. Details of using this system for assignments will be covered in the first lab session.
+    * Thursday class sessions will _usually_ be programming labs. Students are required to bring a laptop. Please contact the me if this is difficult and we can see if a machine can be made available for use in lab.
+	* We will be using Jupyter notebooks to learn Python, which are a web-based interactive programming environment. You will need a `github` account (https://education.github.com/) to access the class server. Assignments will be completed in this and submitted to the instructor. Details of using this system for assignments will be covered in the first lab session.
 	* Weekly assignments will be due at 5pm on the Tuesday following lab session (see schedule for details). These assignments are intended to help students practice the programming concepts and structures introduced in lab and build confidence. They should not be difficult or take excessive time but they do build from week to week so it is _very_ important to keep up.
-3. **Complete a project that uses the techniques and theory covered in class to carry out a text analysis of a specific research question agreed upon with the instructor (50%)**
-    * The goal of this project is to create an engaging blog post similar those produced by data journalists after [State of the Union](https://www.washingtonpost.com/news/monkey-cage/wp/2015/01/21/the-state-of-the-union-address-in-a-single-figure/?utm_term=.1a2854849261) addresses or on a topic like ['How men and women talk about love'](https://www.nytimes.com/interactive/2017/11/07/upshot/modern-love-what-we-write-when-we-write-about-love.html) in the NYTimes recently.
-
-    * The steps in the project are:
-         1. Decide upon a tractable research question that involves analysis of textual data, e.g.:
-            * _Did Hillary Clinton's language as candidate change between 2008 and 2016?_
-            * _What makes and when is Donald Trump happy (as evidenced on Twitter)?_
-            * _What characterizes the online media's discussion of poverty/immigration/etc.?_
-            * _From smoking to vaping - Examining online testimonials of e-cigarette users_
-            * _Comparing portrayal of women in rap and country music_
-         2. Identify, retrieve and prepare a relevant corpus, e.g.
-            * Clinton 2008 and 2016 campaign speeches
-            * Trumps tweets since 2014
-            * Online news coverage of poverty/immigration/..
-            * User stories from online vaping forum, etc.)
-            * Representative samples of song lyrics
-         3. Carry out linguistic analysis of corpus, e.g.
-            * Construct comparative frequency lists of 2008 and 2016 speeches by Clinton, identify keywords, collocations and examined and interpret concordance listings
-            * Apply appropriate sentiment analysis techniques to Trump tweet corpus, cluster tweets by sentiment and time, examine distinctive words and phrases
-            * Collocation analysis of topic related words (e.g. _poverty, poor, low-income_ or _immigration, immigrants, illegals, illegal aliens_)
-            * Create n-gram frequency lists and compare collocations and patterns relating to _smoking_ and _vaping_
-            * Examine and compare collocates of words for women between two genres
-         4. Visualize data
-            * Find appropriate ways to communicate the most important and relevant results from step 3. This might be use a frequency list, concordance listings, a scatter plot of words and phrases, etc.
-         5. Interpret findings
-            * How does your text analysis answer your research question?
-            * Why and how does it matter?
-         6. Write up in a blog post
-	    * Some examples of the style and length of blog post will be discussed.
-            * Data science and particularly textual and language analysis focused posts on `medium.com` are good models for what you are trying to produce.   
-
-            These steps will be scheduled throughout the course allowing for the instructor to help you find a manageable problem, acquire the necessary data and be able to carry out the appropriate computational analysis.
-
+3. **Complete a group project that uses the techniques and theory covered in class to carry out a text analysis of a specific research question agreed upon with the instructor (50%)**
+     * The goal of the project is to practice the coding skills and analytic techniques learned in the class by carrying out a focused data science project. The steps involved will include:
+	   1. Select a tractable research question that involves analysis of textual data
+	   2. Identify, retrieve and prepare a relevant corpus
+	   3, Carry out linguistic analysis of corpus and produce a series of well documentated analysis notebooks
+	   4. Visualize the data and findings
+	   5. Interpret the findings
+	   6, Finally, produce a data blog post (similar to those on medium.com) to communicate your findings
+	   
      * More details of the kinds of projects that would be appropriate and manageable will be discussed during the first few weeks of class.
 
 
@@ -102,7 +85,7 @@ A central goal of this class is to help students begin to develop programming sk
 * Tue 08/30/22 - **Course overview**
 	* Language as a social tool and language data as traces of communicative acts
 	* Review of course overview notebook
-* Thu 09/01/22 - 
+* Thu 09/01/22 - **Lab Session 1**
 
 ### Week 2 - Introduction
 * Tue 09/06/22 - **Introduction to Corpus Linguistics and NLP**
