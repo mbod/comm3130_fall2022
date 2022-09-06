@@ -1,6 +1,6 @@
 ## COMM3130: Computational Text Analysis for Communication Research
 **Fall 2022: Tu/Th 12.00-1.30pm**  
-**Room: ----**
+**Room: ASC111**
 
 **Professor**: Dr. Matt O'Donnell (he/him/his)
 **Email**: mbod@asc.upenn.edu
@@ -94,6 +94,12 @@ A central goal of this class is to help students begin to develop programming sk
 	       - Counting _words_ and finding patterns in language
 	       - Constructing _models_ of language data
 	* _Coding_:
+	   * __Python Basics Part 1__
+		* Objects
+		* `str` objects
+		* general functions
+		* string functions
+		* Indexing and Slicing strings
 	   * Jupyter and Python basics
 	       - Using JupyterHub and notebooks
 	       - Markdown
@@ -121,7 +127,6 @@ A central goal of this class is to help students begin to develop programming sk
         * Working with sequences using Python `list` objects
         * List indexing and slicing
     - **Readings**: *Baker Chs. 1&2*; *NLTK Book Ch. 1 (sections 1, 2 & 4 )* http://www.nltk.org/book/ch01.html  
-    - **Assignment 1 DUE 5pm** - Submit through JupyterHub
 
 * Thur 09/15/22 - **Lab session 2**
 	* _Topics_:
@@ -129,6 +134,9 @@ A central goal of this class is to help students begin to develop programming sk
 	    * Basic tokenization, turning text strings to lists of strings
 	    * Listing files and directories
 	* __Assignment 2__: Working with Python lists
+
+        - **Assignment 1 DUE 11.59pm** - Submit through JupyterHub
+
 
 ### Week 4 - Frequency lists  
 * Tue 09/20/22 - **How and what to count**
