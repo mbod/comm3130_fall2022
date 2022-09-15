@@ -94,16 +94,16 @@ A central goal of this class is to help students begin to develop programming sk
 	       - Counting _words_ and finding patterns in language
 	       - Constructing _models_ of language data
 	* _Coding_:
-	   * __Python Basics Part 1__
-		* Objects
-		* `str` objects
-		* general functions
-		* string functions
-		* Indexing and Slicing strings
-	   * Jupyter and Python basics
-	       - Using JupyterHub and notebooks
-	       - Markdown
-	       - Python string objects
+		* __Python Basics Part 1__
+			* Objects
+			* `str` objects
+			* general functions
+			* string functions
+			* Indexing and Slicing strings
+    	        * Jupyter and Python basics
+	       		- Using JupyterHub and notebooks
+		       - Markdown
+		       - Python string objects
 
 * Thur 09/08/22 - **Lab session 1**
 	* _Topics_:
@@ -148,7 +148,6 @@ A central goal of this class is to help students begin to develop programming sk
         * Loops
         * Conditions
     - __Readings__: _Baker Chs. 3_; _NLTK Book Ch. 2 (esp. sections 1,2&4 )_ http://www.nltk.org/book/ch02.html
-    - **Assignment 2 DUE 5pm** - submit through JupyterHub
 
 * Thur 09/22/22 - **Lab session 3**:
 	* _Topics_:
@@ -156,6 +155,9 @@ A central goal of this class is to help students begin to develop programming sk
 	    * `for` loops
 	    * Conditional constructions
 	    * Filtering lists and objects.
+
+        - **Assignment 2 DUE 11.59pm** - submit through JupyterHub
+
 
 ### Week 5 - Finding, building and using corpora - Part 1
 
@@ -171,16 +173,16 @@ A central goal of this class is to help students begin to develop programming sk
         * Working with JSON
 	      * Functions
 
-* Wed  09/17/22  - **Assignment 3 DUE 5pm** - submit through JupyterHub
-
 
 * Thur 09/29/22 - **Lab session 4**:
-    - _Topics_:
+    - _Topics_:* Wed  09/17/22  - **Assignment 3 DUE 5pm** - submit through JupyterHub
         * Splitting up a string into chunks
         * Writing a `string` object to a file
         * List of dictionaries structure
 	* Functions
     - **Assignment 4**: Creating a text corpus
+
+    - **Assignment 3 DUE 11.59pm** - submit through JupyterHub
 
 
 ### Week 6 - Concordance Analysis
