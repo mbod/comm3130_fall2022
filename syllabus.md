@@ -163,10 +163,9 @@ A central goal of this class is to help students begin to develop programming sk
 
 * Tue  09/27/22 - **Corpus compilation**
     - _Topics:_
-			  * Extracting texts from documents
+	* Extracting texts from documents
         * Organizing a corpus
-        * Using APIs to compile a corpus (e.g. Genius, Twitter)
-		- **Readings**: _Baker Chs. 3&4_; _NLTK Book Ch. 3_ http://www.nltk.org/book/ch03.html
+	- **Readings**: _Baker Chs. 3&4_; _NLTK Book Ch. 3_ http://www.nltk.org/book/ch03.html
     - _Coding:_
         * Dictionaries
         * Writing files
@@ -175,7 +174,7 @@ A central goal of this class is to help students begin to develop programming sk
 
 
 * Thur 09/29/22 - **Lab session 4**:
-    - _Topics_:* Wed  09/17/22  - **Assignment 3 DUE 5pm** - submit through JupyterHub
+    - _Topics_:
         * Splitting up a string into chunks
         * Writing a `string` object to a file
         * List of dictionaries structure
@@ -194,15 +193,18 @@ A central goal of this class is to help students begin to develop programming sk
         * Sorting lists
       	* Functions
     - **Readings**: _Baker Ch. 4_; _NLTK Book Ch. 3_ http://www.nltk.org/book/ch03.html
-    - **Assignment 4 DUE 12pm** - submit through JupyterHub
 
-* Thur 10/06/22 - **Lab session 5**
 
-    - _Topics_:
-         * sorting lists
-         * the list-of-lists structure
-         * creating and using functions
-    - __Assignment 5__: Analysis KWIC concordances
+
+* Wed 10/05/22 -  **Assignment 4 DUE 11.59pm** - submit through JupyterHub
+
+* Thur 10/06/22 - **NO CLASS - FALL BREAK**
+
+
+
+
+### ---- NOTE: Schedule below being updated ----
+
 
 
 ### Week 7 - Finding, building and using corpora - Part 2
@@ -220,6 +222,13 @@ A central goal of this class is to help students begin to develop programming sk
     - **Assignment 5 DUE 5pm**
 
 * Thur 10/13/22 - **Lab session 6**
+
+    - _Topics_:
+        * sorting lists
+         * the list-of-lists structure
+         * creating and using functions
+    - __Assignment 5__: Analysis KWIC concordances
+
     - _Topics_:
         * downloading web pages
 	* navigating HTML documents and extracting text
