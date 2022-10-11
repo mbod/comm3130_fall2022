@@ -184,8 +184,26 @@ A central goal of this class is to help students begin to develop programming sk
     - **Assignment 3 DUE 11.59pm** - submit through JupyterHub
 
 
-### Week 6 - Concordance Analysis
-* Tue 10/04/22 - **Working with KWIC concordances**
+### Week 6 - 
+
+* Tue 10/04/22 - Data structures for corpus organization
+	* Python Basics Part 4
+		* Dictionaries
+		* List-of-dictionaries data structure
+		* Functions
+	* Working with a list-of-dictionaries
+		* Short texts
+			* Twitter example
+		* Structured documents
+	`		* Lexis-Nexis documents in dictionaries
+
+* Wed 10/05/22 -  **Assignment 4 DUE 11.59pm** - submit through JupyterHub
+
+* Thur 10/06/22 - **NO CLASS - FALL BREAK**
+
+
+### Week 7 - Concordance Analysis
+* Tue 10/11/22 - **Working with KWIC concordances**
     - _Topics_:
     	* Using concordances (Keyword-in-context = KWIC) to find patterns and meaning
     - _Coding_:
@@ -194,23 +212,21 @@ A central goal of this class is to help students begin to develop programming sk
       	* Functions
     - **Readings**: _Baker Ch. 4_; _NLTK Book Ch. 3_ http://www.nltk.org/book/ch03.html
 
-
-
-* Wed 10/05/22 -  **Assignment 4 DUE 11.59pm** - submit through JupyterHub
-
-* Thur 10/06/22 - **NO CLASS - FALL BREAK**
-
-
-
-
-### ---- NOTE: Schedule below being updated ----
-
-
-
-### Week 7 - Finding, building and using corpora - Part 2
-* Tue 10/11/22 - **Online corpus compilation**
+* Thur 10/13/22 - **Lab session 6**
     - _Topics_:
-        * Using APIs to compile a corpus (e.g. Twitter)
+        * sorting lists
+         * the list-of-lists structure
+         * creating and using functions
+    - __Assignment 5__: Analysis KWIC concordances
+
+
+### ---- NOTE: Schedule below being updated IGNORE BELOW THIS POINT  ----
+
+
+### Week 8 - Finding, building and using corpora - Part 2
+* Tue 10/18/22 - **Online corpus compilation**
+    - _Topics_:
+        * Using APIs to compile a corpus (e.g. Twitter, Genius.com)
 	* Understanding web page structures
 	* HTML and CSS basics
         * Using web scraping and crawling to build a corpus
@@ -219,25 +235,22 @@ A central goal of this class is to help students begin to develop programming sk
 	* Working with JSON in Python
 	* Using `BeautifulSoup` to extract text from HTML
     - **Readings**: _Baker Chs. 2_; _NLTK Book Ch. 3_ http://www.nltk.org/book/ch03.html
-    - **Assignment 5 DUE 5pm**
 
-* Thur 10/13/22 - **Lab session 6**
 
-    - _Topics_:
-        * sorting lists
-         * the list-of-lists structure
-         * creating and using functions
-    - __Assignment 5__: Analysis KWIC concordances
+* Thur 10/20/22 - **Lab session 6**
 
     - _Topics_:
         * downloading web pages
 	* navigating HTML documents and extracting text
         * code blocks in functions
-    - __Assignment 6__: Building a web corpus
+	* building a web corpus
+
+    - **Assignment 5 DUE 11.50pm submit through JupyterHub**
 
 
-### Week 8 - Collocation
-* Tue 10/18/22 - **Words _have_ friends**
+
+### Week 9 - Collocation
+* Tue 10/25/22 - **Words _have_ friends**
     - _Topics_:
         * Discovering meaning through context
 	* Comparing words through collocation
@@ -249,9 +262,10 @@ A central goal of this class is to help students begin to develop programming sk
 
 
 
-* Thur 10/20/22 - **NO CLASS - SPRING BREAK**
-* Fri 10/22/22
-    - **Assignment 6 DUE 11.59pm**
+* Thur 10/27/22 
+
+    - __Assignment 6__ DUE 11.59pm submit through JupyterHub
+
 
 
 ### Week 9 - Keyness
