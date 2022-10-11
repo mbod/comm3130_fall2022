@@ -234,7 +234,6 @@ A central goal of this class is to help students begin to develop programming sk
 	* Using `BeautifulSoup` to extract text from HTML
     - **Readings**: _Baker Chs. 2_; _NLTK Book Ch. 3_ http://www.nltk.org/book/ch03.html
 
-    - **Assignment 5 DUE 11.50pm submit through JupyterHub**
 
 
 * Thur 10/20/22 - **Lab session 6**
@@ -245,6 +244,7 @@ A central goal of this class is to help students begin to develop programming sk
         * code blocks in functions
 	* building a web corpus
 
+    - **Assignment 5 DUE 11.50pm submit through JupyterHub**
 
 
 
