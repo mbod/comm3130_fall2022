@@ -184,9 +184,9 @@ A central goal of this class is to help students begin to develop programming sk
     - **Assignment 3 DUE 11.59pm** - submit through JupyterHub
 
 
-### Week 6 - 
+### Week 6 - Corpus organization and data structures 
 
-* Tue 10/04/22 - Data structures for corpus organization
+* Tue 10/04/22 - **Data structures for corpus organization***
 	* Python Basics Part 4
 		* Dictionaries
 		* List-of-dictionaries data structure
@@ -217,10 +217,8 @@ A central goal of this class is to help students begin to develop programming sk
         * sorting lists
          * the list-of-lists structure
          * creating and using functions
-    - __Assignment 5__: Analysis KWIC concordances
+         * Analysis KWIC concordances
 
-
-### ---- NOTE: Schedule below being updated IGNORE BELOW THIS POINT  ----
 
 
 ### Week 8 - Finding, building and using corpora - Part 2
@@ -249,6 +247,9 @@ A central goal of this class is to help students begin to develop programming sk
 
 
 
+### ---- NOTE: Schedule below being updated IGNORE BELOW THIS POINT  ----
+
+
 ### Week 9 - Collocation
 * Tue 10/25/22 - **Words _have_ friends**
     - _Topics_:
@@ -260,15 +261,13 @@ A central goal of this class is to help students begin to develop programming sk
     - **Readings**: _Baker Ch. 5_; _NLTK Book Ch. 4 (sections 1&2)_ http://www.nltk.org/book/ch03.html
 		- __Assignment 7__: Final project proposal
 
-
-
 * Thur 10/27/22 
 
     - __Assignment 6__ DUE 11.59pm submit through JupyterHub
 
 
 
-### Week 9 - Keyness
+### Week 10 - Keyness
 * Tue 10/25/22 - **Lab session 8**
     * **Readings**: _Baker Ch. 6_; _NLTK Book Ch. 4 (sections 3&4)_ http://www.nltk.org/book/ch04.html
 
