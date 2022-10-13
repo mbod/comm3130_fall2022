@@ -58,7 +58,8 @@ in which students will work through programming exercises using Jupyter notebook
     * Thursday class sessions will _usually_ be programming labs. Students are required to bring a laptop. Please contact the me if this is difficult and we can see if a machine can be made available for use in lab.
 	* We will be using Jupyter notebooks to learn Python, which are a web-based interactive programming environment. You will need a `github` account (https://education.github.com/) to access the class server. Assignments will be completed in this and submitted to the instructor. Details of using this system for assignments will be covered in the first lab session.
 	* Weekly assignments will be due at 5pm on the Tuesday following lab session (see schedule for details). These assignments are intended to help students practice the programming concepts and structures introduced in lab and build confidence. They should not be difficult or take excessive time but they do build from week to week so it is _very_ important to keep up.
-3. **Complete a group project that uses the techniques and theory covered in class to carry out a text analysis of a specific research question agreed upon with the instructor (50%)**
+3. **Complete a _group project_ that uses the techniques and theory covered in class to 
+carry out a text analysis of a specific research question agreed upon with the instructor (50%)**
      * The goal of the project is to practice the coding skills and analytic techniques learned in the class by carrying out a focused data science project. The steps involved will include:
 	   1. Select a tractable research question that involves analysis of textual data
 	   2. Identify, retrieve and prepare a relevant corpus
@@ -67,8 +68,13 @@ in which students will work through programming exercises using Jupyter notebook
 	   5. Interpret the findings
 	   6, Finally, produce a data blog post (similar to those on medium.com) to communicate your findings
 	   
-     * More details of the kinds of projects that would be appropriate and manageable will be discussed during the first few weeks of class.
+     * You will work in a group of 3 or 4
+	* You can build your own group with those you know in the class and you share an 
+interest for a particular research topic
+	* If there are pairs who want to work together we will find another one or two 
+people to make up the group
 
+     * More details of the kinds of projects that would be appropriate and manageable will be discussed during the first few weeks of class.
 
 
 ## Note about learning programming
@@ -202,7 +208,7 @@ A central goal of this class is to help students begin to develop programming sk
 * Thur 10/06/22 - **NO CLASS - FALL BREAK**
 
 
-### Week 7 - Concordance Analysis
+### Week 7 - Incorporating Context Part 1: _Concordance Analysis_
 * Tue 10/11/22 - **Working with KWIC concordances**
     - _Topics_:
     	* Using concordances (Keyword-in-context = KWIC) to find patterns and meaning
@@ -215,10 +221,9 @@ A central goal of this class is to help students begin to develop programming sk
 * Thur 10/13/22 - **Lab session 6**
     - _Topics_:
         * sorting lists
-         * the list-of-lists structure
-         * creating and using functions
-         * Analysis KWIC concordances
-
+        * the list-of-lists structure
+        * creating and using functions
+        * Analysis KWIC concordances
 
 
 ### Week 8 - Finding, building and using corpora - Part 2
@@ -230,102 +235,130 @@ A central goal of this class is to help students begin to develop programming sk
         * Using web scraping and crawling to build a corpus
     - _Coding_:
         * Using `requests` for web page and API access
-	* Working with JSON in Python
 	* Using `BeautifulSoup` to extract text from HTML
-    - **Readings**: _Baker Chs. 2_; _NLTK Book Ch. 3_ http://www.nltk.org/book/ch03.html
+	* Accessing an API from Python
+	* Working with JSON in Python
 
+    - **Readings**: _Baker Chs. 2_; _NLTK Book Ch. 3_ http://www.nltk.org/book/ch03.html
 
 
 * Thur 10/20/22 - **Lab session 6**
 
+    - ** Final Project Planning **
+
     - _Topics_:
-        * downloading web pages
+        * downloading web pages (using `requests` module)
 	* navigating HTML documents and extracting text
-        * code blocks in functions
 	* building a web corpus
+	* accessing the genius.com API from Python
 
     - **Assignment 5 DUE 11.50pm submit through JupyterHub**
 
 
-
-### ---- NOTE: Schedule below being updated IGNORE BELOW THIS POINT  ----
-
-
-### Week 9 - Collocation
+### Week 9 - Incorporating Context Part 2: _Collocation_
 * Tue 10/25/22 - **Words _have_ friends**
     - _Topics_:
         * Discovering meaning through context
 	* Comparing words through collocation
 	* Collocation profiles
+	* Measuring _strengh of friendship_
+	* Building collocation networks
     - _Coding_:
+	* Working with list-of-lists
+	* Use a dictionary with complex values
+	* Dictionary-of-dictionaries data structure
 
     - **Readings**: _Baker Ch. 5_; _NLTK Book Ch. 4 (sections 1&2)_ http://www.nltk.org/book/ch03.html
 		- __Assignment 7__: Final project proposal
 
-* Thur 10/27/22 
+* Thur 10/27/22  - **Lab session 7**
+
+    - _Topics_:
+	* calculating collocates
+	  - from KWIC object (individual keyword)
+	  - from collocates (e.g 2nd order collocates or collocates of collocates)
+          - from all tokens
+	* building a collocate network
+        * displaying collocates as a network
 
     - __Assignment 6__ DUE 11.59pm submit through JupyterHub
 
 
+### Week 10 - Keyness Analysis
 
-### Week 10 - Keyness
-* Tue 10/25/22 - **Lab session 8**
-    * **Readings**: _Baker Ch. 6_; _NLTK Book Ch. 4 (sections 3&4)_ http://www.nltk.org/book/ch04.html
+* Tue 11/01/22 - **Discovering distinctive vocabulary**
 
-    * **Assignment 7 DUE 5pm**
-
-* Thur 10/27/22 - **Discovering distinctive vocabulary**
     - _Topics_:  
         * 'Aboutness' in text
         * Kinds of comparison
         * Statistical significance and association
 
+    * **Readings**: _Baker Ch. 6_; _NLTK Book Ch. 4 (sections 3&4)_ http://www.nltk.org/book/ch04.html
 
 
-### Week 10 - Introduction to NLP
-* Tue 11/01/22 - **Core concepts and techniques**
+* Thur 11/03/22 - **Lab session 8**
+
+    - ** Final Project Initial Presentations **
+
+    - _Topics_:
+	* Creating keyness profile
+	* Filtering and analyzing keyness lists
+
+    - __Assignment 7__ DUE 11.59pm submit through JupyterHub
+
+
+### Week 11 - Introduction to NLP
+
+* Tue 11/08/22 - ** NO CLASS - Engagement Day **
+
+* Thur 11/10/22 - **Core concepts and techniques**
     * NLP pipeline
   	* Key tasks: POS tagging, parsing, anaphora resolution, role identification
   	* Example Applications
+
     * **Readings**: _NLTK Book Ch. 1 (section 5)_ (http://www.nltk.org/book/ch01.html) and _Ch. 5_ (http://www.nltk.org/book/ch05.html)
 
 
-* Thur 11/03/22 - **Lab session 7**: Using NLTK; NLP Pipeline
-    * __Assignment 8__: Working with POS tags and Twitter data
+    - __Assignment 8__ DUE 11.59pm submit through JupyterHub
 
 
-### Week 11 - NLP: Affect and Sentiment analysis #1
-* Tue 11/08/22 - ** NO CLASS - Engagement Day **
+### Week 12 - NLP: Affect and Sentiment analysis
 
-* Thur 11/10/22 - **Measuring emotion in text**
-  * **Lab session 8**: Using affect lexicons
+* Tue 11/15/22 - **Measuring emotion in text**
 
-  * **Assignment 8 DUE 5pm**
-
-
-### Week 12 - NLP: Affect and Sentiment analysis #2
-* Tue 11/15/22 - **Sentiment classification**
-	* Supervised machine learning
-	* Building a training corpus
-	* Measuring accuracy
+    * Using affect lexicons
+    * Using VADER
 
   * **Readings**: _NLTK Book Ch. 6_ (http://www.nltk.org/book/ch06.html)
 
 
-* Thur 11/17/22 - **Lab session 9**: Building a sentiment classifier
+* Thur 11/17/22 - **Sentiment classification**
+  
+    * Building your own sentiment classifier
+	* Supervised machine learning
+	* Building a training corpus
+	* Measuring accuracy
+
+    - __Assignment 9__ DUE 11.59pm submit through JupyterHub
 
 
 ### Week 13 - NLP: Named Entity Recognition (NER): Who, what, when and where?
 * Tue 11/22/22 - **Identifying actors and actions in text**
+
+  * Quick introduction to spaCy
+      * A state-of-the-art NLP pipeline
+      * Processing documents
+      * Extracting phrases, entities
+  * Finding who does what to whom in a corpus
+
   * **Readings**: _NLTK Book Ch. 7_ (http://www.nltk.org/book/ch07.html)
 
-
-* Thur 11/24/22 - **Lab session 10**: NER and parsed corpora
+* Thur 11/24/22 - ** NO CLASS: Thanksgiving Break ***
 
 
 ### Week 14 - NLP: Topic models
-* Tue 11/29/22 - **Discovering clusters of words in text collections**
 
+* Tue 11/29/22 - **Discovering clusters of words in text collections**
 
 * Thur 12/01/22 - **Lab session 11**: Topic models and visualization
 
@@ -333,3 +366,6 @@ A central goal of this class is to help students begin to develop programming sk
 ### Week 15 - Class projects
 * Tue 12/06/22 - **Project presentations**
 * Thur 12/08/22 - **Project presentations**
+
+
+
