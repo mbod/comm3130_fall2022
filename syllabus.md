@@ -366,6 +366,7 @@ A central goal of this class is to help students begin to develop programming sk
 	  * Supervised machine learning
 	  * Building a training corpus
 	  * Measuring accuracy
+	  * Using prebuilt models and APIs
 	
     - __Assignment 9__ DUE 11.59pm submit through JupyterHub
 
