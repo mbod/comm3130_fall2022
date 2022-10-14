@@ -410,11 +410,11 @@ A central goal of this class is to help students begin to develop programming sk
 * __Presentations__
 	* Groups will have 5-8 minutes to give an update on their project progress so far
 	* 5 or 6 slides, covering:
-		* Research question
-		* Corpus descriptives
-		* Analysis so far
-		* 1 or 2 interesting results
-		* Next steps
+		* _Research question_
+		* _Corpus descriptives_
+		* _Analysis so far_
+		* _1 or 2 interesting results_
+		* _Next steps_
 
 
 
