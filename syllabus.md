@@ -3,17 +3,24 @@
 **Room: ASC111**
 
 **Professor**: Dr. Matt O'Donnell (he/him/his)
-**Email**: mbod@asc.upenn.edu
+  - **Email**: mbod@asc.upenn.edu
+  - **Office hours**: Virtual online meetings through Zoom (email to set up time and see Canvas Announcements for specific times)
 
 
-**Office hours**: Virtual online meetings through Zoom
-* Days and Times __TBA__
+**Coding Assistant**: Jonah Charlton
+  - **Email**: jcharlto@sas.upenn.edu
+  - **Office hours**:
+	- Tuesady 5-6pm Zoom (see link in Canvas)
+	- Thursday 1.30-2.30 In person (See Jonah in class for location)
+  - **IMPORTANT** Jonah will only be available in class sessions and during his two office hours.
 
+----
 
 ## IMPORTANT NOTICE - <u>Masks are required in this class</u>
 * Please make sure you are wearing a face mask fully covering both mouth and nose _before_ you enter the classroom and keep it in place _at all times_.
 * Make sure you have a "properly-fitting, high-quality mask (preferably a surgical mask, KN95/KF94, N95, or [EHRS-recommended Aries mask](https://ehrs.upenn.edu/covid-19/universal-mask-and-cloth-face-covering-precautions) as opposed to a single layer cloth mask)." (UPenn Public Health Guidance).
 
+----
 
 ## Course Description, Goals and Objectives
 
@@ -35,6 +42,8 @@ in which students will work through programming exercises using Jupyter notebook
 	* gain a basic level of programming proficiency in the Python programming language and have completed a number of programming exercises to build, clean and analysis corpora of text
 	* complete a data science project focused the analysis of text data and gain group work and collaborative skills
 
+----
+
 ## Textbooks and resources
 
 * The main readings on corpus linguistics will come from:
@@ -43,6 +52,7 @@ in which students will work through programming exercises using Jupyter notebook
 * and on Python programming and NLP concepts from:
 	* Bird, S., Klein, E. & Loper, E. _Natural Language Processing with Python - Analyzing Text with the Natural Language Toolkit._ Updated version for Python 3. Available free online at http://www.nltk.org/book/
 
+----
 
 ## Assessment
 
@@ -81,7 +91,7 @@ people to make up the group
 
 A central goal of this class is to help students begin to develop programming skills that they can use to approach questions of interest using the growing amounts of textual data available in the era of 'big data'. But like learning any new skill, such as a new language, it takes time and can be frustrating at first. This course does not require students to have any programming background. Realistically it is not possible to become a fully proficient programmer in just one semester. However, the lab sessions and assignments are focused on helping you begin this process and to become comfortable with reading, understanding and modifying Python code examples that you can find on the web etc.
 
-
+----
 
 ## Course Schedule
 
