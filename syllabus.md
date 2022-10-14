@@ -73,7 +73,7 @@ carry out a text analysis of a specific research question agreed upon with the i
      * The goal of the project is to practice the coding skills and analytic techniques learned in the class by carrying out a focused data science project. The steps involved will include:
 	   1. Select a tractable research question that involves analysis of textual data
 	   2. Identify, retrieve and prepare a relevant corpus
-	   3, Carry out linguistic analysis of corpus and produce a series of well documentated analysis notebooks
+	   3, Carry out linguistic analysis of corpus and produce a series of well documented analysis notebooks
 	   4. Visualize the data and findings
 	   5. Interpret the findings
 	   6, Finally, produce a data blog post (similar to those on medium.com) to communicate your findings
@@ -388,18 +388,16 @@ A central goal of this class is to help students begin to develop programming sk
 
 * Tue 11/29/22 - **Discovering clusters of words in text collections**
 
-  	- _Topics_: 
-		* Extending collocation pairs to clusters of co-occuring terms
-		* Generative model of a corpus
-		* Examples
+   - _Topics_: 
+      * Extending collocation pairs to clusters of co-occuring terms
+      * Generative model of a corpus
+      * Examples
 
 * Thur 12/01/22 - **Lab session 11**: Topic models and visualization
 
-  	- _Topics_: 
-		* Building and tuning a topic model
-		* Visualizing and exploring the results
-
-
+   - _Topics_: 
+      * Building and tuning a topic model
+	  * Visualizing and exploring the results
 
 ### Week 15 - Class projects
 
