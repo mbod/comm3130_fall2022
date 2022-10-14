@@ -272,7 +272,8 @@ A central goal of this class is to help students begin to develop programming sk
 		* Collocation profiles
 		* Measuring _strengh of friendship_
 		* Building collocation networks
-		- _Coding_:
+		
+	- _Coding_:
 		* Working with list-of-lists
 		* Use a dictionary with complex values
 		* Dictionary-of-dictionaries data structure
