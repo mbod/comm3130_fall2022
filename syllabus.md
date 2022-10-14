@@ -268,14 +268,14 @@ A central goal of this class is to help students begin to develop programming sk
 * Tue 10/25/22 - **Words _have_ friends**
     - _Topics_:
         * Discovering meaning through context
-	* Comparing words through collocation
-	* Collocation profiles
-	* Measuring _strengh of friendship_
-	* Building collocation networks
-    - _Coding_:
-	* Working with list-of-lists
-	* Use a dictionary with complex values
-	* Dictionary-of-dictionaries data structure
+		* Comparing words through collocation
+		* Collocation profiles
+		* Measuring _strengh of friendship_
+		* Building collocation networks
+		- _Coding_:
+		* Working with list-of-lists
+		* Use a dictionary with complex values
+		* Dictionary-of-dictionaries data structure
 
     - **Readings**: _Baker Ch. 5_; _NLTK Book Ch. 4 (sections 1&2)_ http://www.nltk.org/book/ch03.html
 		- __Assignment 7__: Final project proposal
