@@ -195,7 +195,6 @@ A central goal of this class is to help students begin to develop programming sk
         * Writing a `string` object to a file
         * List of dictionaries structure
 	* Functions
-    - **Assignment 4**: Creating a text corpus
 
     - **Assignment 3 DUE 11.59pm** - submit through JupyterHub
 
@@ -254,7 +253,7 @@ A central goal of this class is to help students begin to develop programming sk
 
 * Thur 10/20/22 - **Lab session 6**
 
-    - ** Final Project Planning **
+    - **Final Project Planning**
 
     - _Topics_:
         * downloading web pages (using `requests` module)
