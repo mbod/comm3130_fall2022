@@ -360,12 +360,12 @@ A central goal of this class is to help students begin to develop programming sk
 
 * Thur 11/17/22 - **Sentiment classification**
   
-  	- _Topics_: 
-		* Building your own sentiment classifier
-		* Representing text as a _document term matrix_ (DTM)
-		* Supervised machine learning
-		* Building a training corpus
-		* Measuring accuracy
+   - _Topics_: 
+      * Building your own sentiment classifier
+	  * Representing text as a _document term matrix_ (DTM)
+	  * Supervised machine learning
+	  * Building a training corpus
+	  * Measuring accuracy
 	
     - __Assignment 9__ DUE 11.59pm submit through JupyterHub
 
