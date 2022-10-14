@@ -272,14 +272,14 @@ A central goal of this class is to help students begin to develop programming sk
 		* Collocation profiles
 		* Measuring _strengh of friendship_
 		* Building collocation networks
-		
+
 	- _Coding_:
 		* Working with list-of-lists
 		* Use a dictionary with complex values
 		* Dictionary-of-dictionaries data structure
 
     - **Readings**: _Baker Ch. 5_; _NLTK Book Ch. 4 (sections 1&2)_ http://www.nltk.org/book/ch03.html
-		- __Assignment 7__: Final project proposal
+
 
 * Thur 10/27/22  - **Lab session 7**
 
@@ -308,23 +308,34 @@ A central goal of this class is to help students begin to develop programming sk
 
 * Thur 11/03/22 - **Lab session 8**
 
-    - ** Final Project Initial Presentations **
+    - **Final Project Initial Presentations**
+		- Each project group will give a quick 3-5 minute overview of their research topic, planned corpus and analysis strategy
+		- 3 or 4 slides 
 
     - _Topics_:
-	* Creating keyness profile
-	* Filtering and analyzing keyness lists
+		* Creating keyness profile
+		* Filtering and analyzing keyness lists
 
     - __Assignment 7__ DUE 11.59pm submit through JupyterHub
 
 
 ### Week 11 - Introduction to NLP
 
-* Tue 11/08/22 - ** NO CLASS - Engagement Day **
+* Tue 11/08/22 - **NO CLASS - Engagement Day**
 
-* Thur 11/10/22 - **Core concepts and techniques**
-    * NLP pipeline
-  	* Key tasks: POS tagging, parsing, anaphora resolution, role identification
-  	* Example Applications
+* Thur 11/10/22 - **Core concepts and techniques in NLP**
+
+	- _Topics_: 
+		* NLP pipeline
+		* Key tasks: POS tagging, parsing, sentiment analysis, anaphora resolution, role identification
+		* Example Applications
+	
+	- _Coding_:
+		* Using `nltk` module and functions
+			- word tokenization
+			- sentence segmentation
+			- POS tagging
+		* Filtering by POS categories 
 
     * **Readings**: _NLTK Book Ch. 1 (section 5)_ (http://www.nltk.org/book/ch01.html) and _Ch. 5_ (http://www.nltk.org/book/ch05.html)
 
@@ -335,47 +346,76 @@ A central goal of this class is to help students begin to develop programming sk
 ### Week 12 - NLP: Affect and Sentiment analysis
 
 * Tue 11/15/22 - **Measuring emotion in text**
-
-    * Using affect lexicons
-    * Using VADER
+	- _Topics_: 
+		* Sentiment analysis and opinion mining
+		* Approaches: lexicons and classifiers
+		* Using affect lexicons
+		
+	- _Coding_: 
+		* Using VADER
+		* Crowdsource lexicons
 
   * **Readings**: _NLTK Book Ch. 6_ (http://www.nltk.org/book/ch06.html)
 
 
 * Thur 11/17/22 - **Sentiment classification**
   
-    * Building your own sentiment classifier
-	* Supervised machine learning
-	* Building a training corpus
-	* Measuring accuracy
-
+  	- _Topics_: 
+		* Building your own sentiment classifier
+		* Representing text as a _document term matrix_ (DTM)
+		* Supervised machine learning
+		* Building a training corpus
+		* Measuring accuracy
+	
     - __Assignment 9__ DUE 11.59pm submit through JupyterHub
 
 
 ### Week 13 - NLP: Named Entity Recognition (NER): Who, what, when and where?
 * Tue 11/22/22 - **Identifying actors and actions in text**
+  	- _Topics_: 
+		* Quick introduction to spaCy
+			* A state-of-the-art NLP pipeline
+			* Processing documents
+			* Extracting phrases, entities
+		* Finding who does what to whom in a corpus
 
-  * Quick introduction to spaCy
-      * A state-of-the-art NLP pipeline
-      * Processing documents
-      * Extracting phrases, entities
-  * Finding who does what to whom in a corpus
+	* **Readings**: _NLTK Book Ch. 7_ (http://www.nltk.org/book/ch07.html)
 
-  * **Readings**: _NLTK Book Ch. 7_ (http://www.nltk.org/book/ch07.html)
-
-* Thur 11/24/22 - ** NO CLASS: Thanksgiving Break ***
+* Thur 11/24/22 - **NO CLASS: Thanksgiving Break**
 
 
 ### Week 14 - NLP: Topic models
 
 * Tue 11/29/22 - **Discovering clusters of words in text collections**
 
+  	- _Topics_: 
+		* Extending collocation pairs to clusters of co-occuring terms
+		* Generative model of a corpus
+		* Examples
+
 * Thur 12/01/22 - **Lab session 11**: Topic models and visualization
+
+  	- _Topics_: 
+		* Building and tuning a topic model
+		* Visualizing and exploring the results
+
 
 
 ### Week 15 - Class projects
+
 * Tue 12/06/22 - **Project presentations**
+
 * Thur 12/08/22 - **Project presentations**
+
+* __Presentations__
+	* Groups will have 5-8 minutes to give an update on their project progress so far
+	* 5 or 6 slides, covering:
+		* Research question
+		* Corpus descriptives
+		* Analysis so far
+		* 1 or 2 interesting results
+		* Next steps
+
 
 
 
