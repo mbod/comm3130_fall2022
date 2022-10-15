@@ -239,14 +239,14 @@ A central goal of this class is to help students begin to develop programming sk
 * Tue 10/18/22 - **Online corpus compilation**
     - _Topics_:
         * Using APIs to compile a corpus (e.g. Twitter, Genius.com)
-	* Understanding web page structures
-	* HTML and CSS basics
+	    * Understanding web page structures
+		* HTML and CSS basics
         * Using web scraping and crawling to build a corpus
     - _Coding_:
         * Using `requests` for web page and API access
-	* Using `BeautifulSoup` to extract text from HTML
-	* Accessing an API from Python
-	* Working with JSON in Python
+		* Using `BeautifulSoup` to extract text from HTML
+		* Accessing an API from Python
+		* Working with JSON in Python
 
     - **Readings**: _Baker Chs. 2_; _NLTK Book Ch. 3_ http://www.nltk.org/book/ch03.html
 
