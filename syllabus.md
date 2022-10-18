@@ -257,9 +257,9 @@ A central goal of this class is to help students begin to develop programming sk
 
     - _Topics_:
         * downloading web pages (using `requests` module)
-	* navigating HTML documents and extracting text
-	* building a web corpus
-	* accessing the genius.com API from Python
+		* navigating HTML documents and extracting text
+		* building a web corpus
+		* accessing the genius.com API from Python
 
     - **Assignment 5 DUE 11.50pm submit through JupyterHub**
 
@@ -373,12 +373,12 @@ A central goal of this class is to help students begin to develop programming sk
 
 ### Week 13 - NLP: Named Entity Recognition (NER): Who, what, when and where?
 * Tue 11/22/22 - **Identifying actors and actions in text**
-  	- _Topics_: 
-		* Quick introduction to spaCy
-			* A state-of-the-art NLP pipeline
-			* Processing documents
-			* Extracting phrases, entities
-		* Finding who does what to whom in a corpus
+    - _Topics_:
+	   * Quick introduction to spaCy
+	      * A state-of-the-art NLP pipeline
+		  * Processing documents
+		  * Extracting phrases, entities
+	   * Finding who does what to whom in a corpus
 
 	* **Readings**: _NLTK Book Ch. 7_ (http://www.nltk.org/book/ch07.html)
 
