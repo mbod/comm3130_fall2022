@@ -261,6 +261,7 @@ A central goal of this class is to help students begin to develop programming sk
 		* building a web corpus
 		* accessing the genius.com API from Python
 
+* Fri 10/21/22
     - **Assignment 5 DUE 11.50pm submit through JupyterHub**
 
 
@@ -284,6 +285,9 @@ A central goal of this class is to help students begin to develop programming sk
 * Thur 10/27/22  - **Lab session 7**
 
     - _Topics_:
+	* Working on Final Projects
+		* Setting research question
+		* Thinking about corpora and collecting some pilot data
 	* calculating collocates
 	  - from KWIC object (individual keyword)
 	  - from collocates (e.g 2nd order collocates or collocates of collocates)
@@ -291,7 +295,6 @@ A central goal of this class is to help students begin to develop programming sk
 	* building a collocate network
         * displaying collocates as a network
 
-    - __Assignment 6__ DUE 11.59pm submit through JupyterHub
 
 
 ### Week 10 - Keyness Analysis
@@ -305,6 +308,8 @@ A central goal of this class is to help students begin to develop programming sk
 
     * **Readings**: _Baker Ch. 6_; _NLTK Book Ch. 4 (sections 3&4)_ http://www.nltk.org/book/ch04.html
 
+    - __Assignment 6__ DUE 11.59pm submit through JupyterHub
+
 
 * Thur 11/03/22 - **Lab session 8**
 
@@ -316,7 +321,6 @@ A central goal of this class is to help students begin to develop programming sk
 		* Creating keyness profile
 		* Filtering and analyzing keyness lists
 
-    - __Assignment 7__ DUE 11.59pm submit through JupyterHub
 
 
 ### Week 11 - Introduction to NLP
@@ -339,8 +343,8 @@ A central goal of this class is to help students begin to develop programming sk
 
     * **Readings**: _NLTK Book Ch. 1 (section 5)_ (http://www.nltk.org/book/ch01.html) and _Ch. 5_ (http://www.nltk.org/book/ch05.html)
 
-
-    - __Assignment 8__ DUE 11.59pm submit through JupyterHub
+* Friday 11/11/22
+    - __Assignment 7__ DUE 11.59pm submit through JupyterHub
 
 
 ### Week 12 - NLP: Affect and Sentiment analysis
@@ -368,7 +372,6 @@ A central goal of this class is to help students begin to develop programming sk
 	  * Measuring accuracy
 	  * Using prebuilt models and APIs
 	
-    - __Assignment 9__ DUE 11.59pm submit through JupyterHub
 
 
 ### Week 13 - NLP: Named Entity Recognition (NER): Who, what, when and where?
