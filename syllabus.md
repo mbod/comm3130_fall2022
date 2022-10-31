@@ -322,12 +322,14 @@ A central goal of this class is to help students begin to develop programming sk
 		* Filtering and analyzing keyness lists
 
 
+* Sun 11/06/22 
+    - **Assignment 6 DUE 11.50pm submit through JupyterHub**
+
 
 ### Week 11 - Introduction to NLP
 
-* Tue 11/08/22 - **NO CLASS - Engagement Day**
 
-* Thur 11/10/22 - **Core concepts and techniques in NLP**
+* Tue 11/08/22 - **Core concepts and techniques in NLP**
 
 	- _Topics_: 
 		* NLP pipeline
@@ -343,8 +345,16 @@ A central goal of this class is to help students begin to develop programming sk
 
     * **Readings**: _NLTK Book Ch. 1 (section 5)_ (http://www.nltk.org/book/ch01.html) and _Ch. 5_ (http://www.nltk.org/book/ch05.html)
 
-* Friday 11/11/22
-    - __Assignment 7__ DUE 11.59pm submit through JupyterHub
+
+* Thur 11/10/22 - Lab Session  
+
+	* **Final Project**
+		* Corpus collection/building and organization
+
+	* Coding:
+		- Working with Twitter API and other collection tools
+		- YouTube transcript collection
+		- POS tagging and filtering 
 
 
 ### Week 12 - NLP: Affect and Sentiment analysis
@@ -372,6 +382,9 @@ A central goal of this class is to help students begin to develop programming sk
 	  * Measuring accuracy
 	  * Using prebuilt models and APIs
 	
+
+* Friday 11/18/22
+    - __Assignment 7__ DUE 11.59pm submit through JupyterHub
 
 
 ### Week 13 - NLP: Named Entity Recognition (NER): Who, what, when and where?
