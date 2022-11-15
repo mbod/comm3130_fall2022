@@ -1,6 +1,5 @@
-## COMM3130: Computational Text Analysis for Communication Research
-**Fall 2022: Tu/Th 12.00-1.30pm**  
-**Room: ASC111**
+## COMM3130: Computational Text Analysis for Communication Research **Fall 2022: Tu/Th 
+12.00-1.30pm** **Room: ASC111**
 
 **Professor**: Dr. Matt O'Donnell (he/him/his)
   - **Email**: mbod@asc.upenn.edu
@@ -308,7 +307,6 @@ A central goal of this class is to help students begin to develop programming sk
 
     * **Readings**: _Baker Ch. 6_; _NLTK Book Ch. 4 (sections 3&4)_ http://www.nltk.org/book/ch04.html
 
-    - __Assignment 6__ DUE 11.59pm submit through JupyterHub
 
 
 * Thur 11/03/22 - **Lab session 8**
@@ -346,6 +344,8 @@ A central goal of this class is to help students begin to develop programming sk
     * **Readings**: _NLTK Book Ch. 1 (section 5)_ (http://www.nltk.org/book/ch01.html) and _Ch. 5_ (http://www.nltk.org/book/ch05.html)
 
 
+
+
 * Thur 11/10/22 - Lab Session  
 
 	* **Final Project**
@@ -369,6 +369,10 @@ A central goal of this class is to help students begin to develop programming sk
 		* Using VADER
 		* Crowdsource lexicons
 
+	* **Final Project**
+		* Formulating testable hyotheses 
+
+
   * **Readings**: _NLTK Book Ch. 6_ (http://www.nltk.org/book/ch06.html)
 
 
@@ -382,9 +386,9 @@ A central goal of this class is to help students begin to develop programming sk
 	  * Measuring accuracy
 	  * Using prebuilt models and APIs
 	
+   -  **Final Project**
+        * Corpus collection/building and organization
 
-* Friday 11/18/22
-    - __Assignment 7__ DUE 11.59pm submit through JupyterHub
 
 
 ### Week 13 - NLP: Named Entity Recognition (NER): Who, what, when and where?
@@ -409,6 +413,8 @@ A central goal of this class is to help students begin to develop programming sk
       * Extending collocation pairs to clusters of co-occuring terms
       * Generative model of a corpus
       * Examples
+
+
 
 * Thur 12/01/22 - **Lab session 11**: Topic models and visualization
 
