@@ -392,7 +392,12 @@ A central goal of this class is to help students begin to develop programming sk
 
 
 ### Week 13 - NLP: Named Entity Recognition (NER): Who, what, when and where?
-* Tue 11/22/22 - **Identifying actors and actions in text**
+* Tue 11/22/22 - Lab Session (Zoom)
+
+   - Lab Session working on Group Projects
+     * THIS SESSION WILL TAKE PLACE ON ZOOM
+
+   - VIDEO LECTURE **Identifying actors and actions in text**
     - _Topics_:
 	   * Quick introduction to spaCy
 	      * A state-of-the-art NLP pipeline
